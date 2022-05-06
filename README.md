@@ -66,8 +66,27 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-DATA HEAD:
-![GITHUB_LOGO](
+
+##DATA HEAD:
+![GITHUB_LOGO](datahead.png)
+
+##DATA1 HEAD:
+![GITHUB_LOGO](data1head.png)
+
+##LABEL ENCODER:
+![GITHUB_LOGO](labelencoder.png)
+
+##ACCURACY:
+![GITHUB_LOGO](accuracy.png)
+
+##CONFUSION:
+![GITHUB_LOGO](confusion.png)
+
+##CLASSIFICATION:
+![GITHUB_LOGO](classification predict.png)
+
+##LR PREDICT:
+![GITHUB_LOGO](lr predict.png)
 
 
 ## Result:
