@@ -83,10 +83,10 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![GITHUB_LOGO](confusion.png)
 
 ##CLASSIFICATION:
-![GITHUB_LOGO](classification predict.png)
+![GITHUB_LOGO](classificationpredict.png)
 
 ##LR PREDICT:
-![GITHUB_LOGO](lr predict.png)
+![GITHUB_LOGO](lrpredict.png)
 
 
 ## Result:
